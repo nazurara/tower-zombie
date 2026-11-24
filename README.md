@@ -1,9 +1,9 @@
 # Tower Zombie
 
 Game tower defense 2D: bangun menara, hentikan gerombolan zombie sebelum menghancurkan rumahmu.
-Dibuat dengan **JavaScript + Phaser 3**. Semua gambar dan suara dibuat lewat kode, jadi game langsung jalan tanpa file aset.
+Dibuat dengan **JavaScript + Phaser 3**.
 
-## Fitur (versi 3)
+## Fitur
 - **4 lokasi / bab** yang berganti otomatis tiap 4 wave: Desa Hijau → Pantai Berkabut → Puncak Salju → Gunung Api (total 16 wave).
   Tiap lokasi punya peta, jalur, rumah, cuaca, musik, dan **zombie khusus** sendiri, plus **bos** di wave terakhirnya.
 - **Menaramu ikut pindah**: saat ganti lokasi, menara dikemas lalu dipasang otomatis di titik terbaik peta baru.
